@@ -10,4 +10,4 @@ The cache package in the cloud drive needs to be unzipped and placed in the corr
 
 The AnomalyCLIP_lib and jsonFile and generate_dataset_json packages need to be unzipped before use.
 
-The training code can be found in the Elaina_train_mvtec.py files, and the inference files can be found in Elaina_teat_visa.py.
+The training code can be found in the Elaina_train_mvtec.py files, and the inference files can be found in Elaina_teat_visa.py. You need to run the training script first to generate the weight files, and then run the testing script.
